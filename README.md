@@ -1,6 +1,6 @@
 # vim_plugins
 
-To install:
+## Installation
 
 ```
 git clone https://github.com/steve-nekoliczak/vim_plugins.git $HOME/.vim
