@@ -15,7 +15,8 @@ filetype plugin on
 " indentLine
 let g:indentLine_char_list = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
 
-
+" silver searcher
+let g:ackprg = 'ag --nogroup --nocolor --column'
 
 "
 " User experience
@@ -56,6 +57,7 @@ nnoremap <C-J> <C-W>j
 nnoremap <C-K> <C-W>k
 nnoremap <C-L> <C-W>l
 nnoremap <C-H> <C-W>h
+nnoremap <C-y> :tabnew<CR>
 map <C-a> :vertical resize -10<CR>
 map <C-g> :vertical resize +10<CR>
 map <C-f> :resize -10<CR>
