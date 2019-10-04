@@ -1,4 +1,4 @@
-# vim_plugins
+# unix_setup
 
 ## Installation
 
