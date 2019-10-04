@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone https://github.com/steve-nekoliczak/unix_setup.git ~/.vim
+git clone https://github.com/steve-nekoliczak/vim_plugins.git ~/.vim
 cd ~/.vim
 git submodule update --init
 ```
