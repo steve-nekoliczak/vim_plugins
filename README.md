@@ -9,7 +9,7 @@ git submodule update --init
 ```
 
 Install [the silver searcher](https://github.com/ggreer/the_silver_searcher)  
-Install [`flake8`](http://flake8.pycqa.org/en/latest/)
+Install [`flake8`](http://flake8.pycqa.org/en/latest/)  
 Install [`ctags`](https://launchpad.net/ubuntu/+source/exuberant-ctags)  
 
 ## Adding New Modules
