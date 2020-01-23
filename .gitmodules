@@ -58,3 +58,6 @@
 [submodule "bundle/vim-rhubarb"]
 	path = bundle/vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb.git
+[submodule "bundle/tabulous"]
+	path = bundle/tabulous
+	url = https://github.com/webdevel/tabulous.git
