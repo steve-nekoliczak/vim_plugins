@@ -70,9 +70,6 @@
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "bundle/vimade"]
-	path = bundle/vimade
-	url = https://github.com/TaDaa/vimade.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
